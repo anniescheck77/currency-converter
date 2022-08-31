@@ -1,0 +1,15 @@
+:host{
+    text-align: center;
+
+}
+input, select{
+    border: 1px grey solid;
+    padding: 3px;
+    border-radius: 3px;
+    margin: 10px;
+}
+b {
+    color: #49B08A;
+    margin: 20px;
+    font-size: 26px;
+}
